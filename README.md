@@ -1,4 +1,4 @@
 focus-test
 ==========
 
-Focus test tool on your screen
+Focus testing tool on your screen
