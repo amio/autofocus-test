@@ -1,0 +1,11 @@
+
+html, body, #wrapper { margin: 0; padding: 0; height: 100% }
+
+#wrapper { width: 800px; text-align: center; margin: auto; overflow: hidden }
+
+.line-sep { height: 10px; position: relative }
+.line-left, .line-right, .line-center { height: 5px; border-bottom: 2px solid black; position: absolute; top: 0 }
+.line-left, .line-right  { width: 270px }
+.line-left { left: 0 }
+.line-right { right: 0 }
+.line-center { width: 100% }
