@@ -1,4 +1,4 @@
-focus-test
+Autofocus Test
 ==========
 
-Focus testing tool on your screen
+Autofocus testing tool on your screen
