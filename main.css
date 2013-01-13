@@ -17,15 +17,24 @@ html, body, #wrapper { margin: 0; padding: 0; height: 100% }
 .scale:before, .scale:after { height: 6px; line-height: 6px; position: absolute; top: 7px; padding-left: 5px }
 .scale:before { border-left: 2px solid black; left: -4px; padding-left: 5px }
 .scale:after { border-right: 2px solid black; right: -4px; padding-right: 5px }
+
 .scale.mk1 { margin-top: -60px }
 .scale.mk1:before, .scale.mk1:after { content: '1' }
 .scale.mk2 { margin-top: -110px }
 .scale.mk2:before, .scale.mk2:after { content: '2' }
 .scale.mk3 { margin-top: -160px }
 .scale.mk3:before, .scale.mk3:after { content: '3' }
+.scale.mk4 { margin-top: -210px }
+.scale.mk4:before, .scale.mk4:after { content: '4' }
+.scale.mk5 { margin-top: -260px }
+.scale.mk5:before, .scale.mk5:after { content: '5' }
 .scale.mk-1 { margin-top: 40px }
 .scale.mk-1:before, .scale.mk-1:after { content: '1' }
 .scale.mk-2 { margin-top: 90px }
 .scale.mk-2:before, .scale.mk-2:after { content: '2' }
 .scale.mk-3 { margin-top: 140px }
 .scale.mk-3:before, .scale.mk-3:after { content: '3' }
+.scale.mk-4 { margin-top: 190px }
+.scale.mk-4:before, .scale.mk-4:after { content: '4' }
+.scale.mk-5 { margin-top: 240px }
+.scale.mk-5:before, .scale.mk-5:after { content: '5' }
