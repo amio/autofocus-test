@@ -1,5 +1,5 @@
 
-html, body, #wrapper { margin: 0; padding: 0; height: 100% }
+html, body, #wrapper { margin: 0; padding: 0; height: 100%; font-family: 'Open Sans', sans-serif }
 
 #wrapper { width: 800px; text-align: center; margin: auto; overflow: hidden }
 
@@ -14,9 +14,9 @@ html, body, #wrapper { margin: 0; padding: 0; height: 100% }
 .focus-cross-40 { width: 42px; height: 42px; margin: -11px auto; background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqAgMAAAC4rSHIAAAACVBMVEUAAAAAAAD///+D3c/SAAAAAXRSTlMAQObYZgAAAENJREFUGNNjCIWDAAZkNk6ArIQI5TBFARhsvBoCsLADoBiDDVSClQ2GWNhLly7AysalHqf52N2Dy/3UCR8Swx9H/AIAAvM77cndEz4AAAAASUVORK5CYII=) center no-repeat }
 
 .scale { position: absolute; width: 100%; height: 20px; top: 50%; left: 0; font-size: 11px; color: #999 }
-.scale:before, .scale:after { height: 12px; line-height: 12px; position: absolute; width: 10px; top: 4px; background-color: #666; color: #FFF; text-align: center }
-.scale:before { left: -10px }
-.scale:after { right: -10px }
+.scale:before, .scale:after { height: 12px; line-height: 12px; position: absolute; width: 12px; top: 4px; background-color: #666; color: #FFF; text-align: center }
+.scale:before { left: -12px }
+.scale:after { right: -12px }
 
 .scale.mk1 { margin-top: -60px }
 .scale.mk1:before, .scale.mk1:after { content: '1' }
@@ -39,5 +39,5 @@ html, body, #wrapper { margin: 0; padding: 0; height: 100% }
 .scale.mk-5 { margin-top: 240px }
 .scale.mk-5:before, .scale.mk-5:after { content: '5' }
 
-.focus-url { margin: 1px 4px; height: 18px; background-color: #000; overflow: hidden; letter-spacing: 1px;
-    color: #FFF; font: 14px/18px 'Open Sans', sans-serif;  }
+.focus-url { margin: 1px 8px; height: 18px; background-color: #000; overflow: hidden; letter-spacing: 1px;
+    color: #FFF; font: 14px/18px 'Droid Sans', sans-serif;  }
