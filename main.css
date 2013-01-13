@@ -10,7 +10,7 @@ html, body, #wrapper { margin: 0; padding: 0; height: 100% }
 .focus-marker { position: absolute; width: 100%; top: 50%; margin-top: -10px; height: 20px; background-repeat: repeat-x }
 .focus-cross-10 { width: 10px; height: 10px; margin: 5px auto; background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAKUlEQVQYlWNgYGD4TyQmUuH//6gYJoEhTopCMEBSgJ1PikIqu5Hq4QgAbufHOYrQjjsAAAAASUVORK5CYII=) center no-repeat }
 .focus-cross-20 { width: 20px; height: 20px; margin: 0 auto; background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAQklEQVQ4y2P4//8/AzUxhABS1MA0NZAqgK4GEuvNgTMQlwVUC0PKDPwPBUjJARd/gAwc/GE4JNPhwOflQV4eUhMDAEzxknyb777JAAAAAElFTkSuQmCC) center no-repeat }
-.focus-cross-30 { width: 34px; height: 34px; margin: -7px auto; background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAQklEQVRIx2NgYGD4TydMP4uGP6BbUI3GCd3jbOhYhMtiugUllU2FApgFePhDxKLhF0cjIh8N37JttD4aenEyONp1ACogFvi5lDtNAAAAAElFTkSuQmCC) center no-repeat }
+.focus-cross-30 { width: 30px; height: 30px; margin: -5px auto; background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAQklEQVRIx2NgYGD4TydMP4uGP6BbUI3GCd3jbOhYhMtiugUllU2FApgFePhDxKLhF0cjIh8N37JttD4aenEyONp1ACogFvi5lDtNAAAAAElFTkSuQmCC) center no-repeat }
 .focus-cross-40 { width: 42px; height: 42px; margin: -11px auto; background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqAgMAAAC4rSHIAAAACVBMVEUAAAAAAAD///+D3c/SAAAAAXRSTlMAQObYZgAAAENJREFUGNNjCIWDAAZkNk6ArIQI5TBFARhsvBoCsLADoBiDDVSClQ2GWNhLly7AysalHqf52N2Dy/3UCR8Swx9H/AIAAvM77cndEz4AAAAASUVORK5CYII=) center no-repeat }
 
 
