@@ -2,6 +2,7 @@
 html, body, #wrapper { margin: 0; padding: 0; height: 100%; font-family: 'Open Sans', sans-serif }
 
 #wrapper { width: 800px; text-align: center; margin: auto; overflow: hidden }
+#wrapper { box-sizing: border-box; border: 2px solid #FFF }
 
 .vlines {}
 .hlines { background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAKCAYAAACJxx+AAAAAGklEQVQY02P8//8/Az7ASAcFQPyfMgWDwBcALjgZ8aXLhFUAAAAASUVORK5CYII=) center repeat }
